@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.side-menu{
+  background-color: #282c34;
+  height: 100%;
+}
+
+.content{
+  width: 96%;
+  background-color: #c8c8c8;
+  border: 2px solid;
+  padding: 64px;
+  margin: 20px;
+  border-radius: 28px;
+}
